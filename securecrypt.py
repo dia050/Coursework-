@@ -380,3 +380,4 @@ def launch_gui():
 # -------------------------
 if check_lock_state() and verify_master_password():
     launch_gui()
+#test
